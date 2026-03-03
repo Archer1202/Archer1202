@@ -79,6 +79,7 @@
 
 - Sells_videogames(Analysis of video game sales through various filters) [link](https://github.com/Archer1202/Sells_videogames)
 - vehicles_env (Analysis of car sales by various filters and website with results) [link](https://github.com/Archer1202/vehicles_env)
+- Marketing_expenses (Cost-benefit marketing analysis and identification of areas of opportunity) [link](https://github.com/Archer1202/marketing_expenses)
 
 <br>
 <br>
