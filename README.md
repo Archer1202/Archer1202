@@ -15,7 +15,8 @@
 
 - Self-taught data analyst
 - Experience in financial analysis, currently learning more about data analysis and web development
-- Personal website [link](https://www.linkedin.com/in/oscar-fabricio-rodriguez-gamino-b12674257/)
+- Personal website [link](https://fabricio-dataflow.lovable.app)
+- Personal LinkedIn [link](www.linkedin.com/in/oscar-fabricio-rodriguez-gamino-b12674257)
 - Seeking a new job
 - Ability to resolve any situation
 
@@ -80,6 +81,8 @@
 - Sells_videogames(Analysis of video game sales through various filters) [link](https://github.com/Archer1202/Sells_videogames)
 - vehicles_env (Analysis of car sales by various filters and website with results) [link](https://github.com/Archer1202/vehicles_env)
 - Marketing_expenses (Cost-benefit marketing analysis and identification of areas of opportunity) [link](https://github.com/Archer1202/marketing_expenses)
+- music-kmeans (Analysis of popularity vs. success of music) [link](https://github.com/Archer1202/music-kmeans)
+- NFL-statistics (Analysis of team performance by wins) [link](https://github.com/Archer1202/NFL-statistics)
 
 <br>
 <br>
