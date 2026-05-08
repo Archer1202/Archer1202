@@ -15,7 +15,7 @@
 
 - Self-taught data analyst
 - Experience in financial analysis, currently learning more about data analysis and web development
-- Personal website [link](https://fabricio-dataflow.lovable.app)
+- Personal website [link](https://fabricio-dataflow.lovable.app/)
 - Personal LinkedIn [link](www.linkedin.com/in/oscar-fabricio-rodriguez-gamino-b12674257)
 - Seeking a new job
 - Ability to resolve any situation
