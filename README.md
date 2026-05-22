@@ -85,6 +85,7 @@
 - Marketing_expenses (Cost-benefit marketing analysis and identification of areas of opportunity) [link](https://github.com/Archer1202/marketing_expenses)
 - music-kmeans (Analysis of popularity vs. success of music) [link](https://github.com/Archer1202/music-kmeans)
 - NFL-statistics (Analysis of team performance by wins) [link](https://github.com/Archer1202/NFL-statistics)
+- Nykaa Digital Marketing Campaign Analysis(Nykka Campaign Marketing Analysis) [link](https://github.com/Archer1202/nyka_marketing)
 
 <br>
 <br>
