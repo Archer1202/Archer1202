@@ -86,7 +86,8 @@
 - music-kmeans (Analysis of popularity vs. success of music) [link](https://github.com/Archer1202/music-kmeans)
 - NFL-statistics (Analysis of team performance by wins) [link](https://github.com/Archer1202/NFL-statistics)
 - Nykaa Digital Marketing Campaign Analysis(Nykka Campaign Marketing Analysis) [link](https://github.com/Archer1202/nyka_marketing)
--e-commerce_analysis (Exploratory data analysis of global e-commerce sales using Python) [link](https://github.com/Archer1202/e-commerce_analysis)
+- e-commerce_analysis (Exploratory data analysis of global e-commerce sales using Python) [link](https://github.com/Archer1202/e-commerce_analysis)
+- Videogames_Power_bi (Video game sales analysis (1980–2017) featuring data cleaning and transformation) [link](https://github.com/Archer1202/power_bi_videogames)
 
 <br>
 <br>
